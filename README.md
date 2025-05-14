@@ -4,6 +4,12 @@ A clean, responsive clone of the **NxtWave Talks** website, rebuilt to mirror it
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [View Website](https://mrinnovater.github.io/Web-Clone-Project/code.html)
+
+---
+
 ## 🔍 Features
 
 - ✅ **Pixel-perfect clone** of the original site
@@ -26,7 +32,6 @@ A clean, responsive clone of the **NxtWave Talks** website, rebuilt to mirror it
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/324a8054-d3de-467c-ac16-41bdd2969fef)
-
 
 ---
 
