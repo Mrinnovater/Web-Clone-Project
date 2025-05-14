@@ -1,7 +1,6 @@
 # 🚀 NxtWave Talks Clone
 
 A clean, responsive clone of the **NxtWave Talks** website, rebuilt to mirror its engaging design, modern layout, and dynamic user experience.  
-📐 **Project Size:** ~1.2 MB (may vary depending on assets)
 
 ---
 
@@ -20,16 +19,14 @@ A clean, responsive clone of the **NxtWave Talks** website, rebuilt to mirror it
 - `HTML5`
 - `CSS3` (Flexbox, Grid, Media Queries)
 - `Font Awesome` & `Google Fonts`
-- *(Optional)* `Bootstrap` or `Tailwind CSS` (if implemented)
+- `Bootstrap`
 
 ---
 
 ## 📸 Screenshots
 
-> Add responsive UI snapshots for:
-- Desktop View
-- Tablet View
-- Mobile View
+![image](https://github.com/user-attachments/assets/324a8054-d3de-467c-ac16-41bdd2969fef)
+
 
 ---
 
@@ -48,8 +45,3 @@ A clean, responsive clone of the **NxtWave Talks** website, rebuilt to mirror it
 - Built a **production-quality front end** from scratch
 
 ---
-
-## 📁 Project Size & Structure
-
-- Total Size: ~1.2 MB
-- Structure:
